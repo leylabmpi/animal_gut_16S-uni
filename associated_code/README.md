@@ -1,0 +1,1 @@
+The *.R files include helper functions that are sourced in many of the R kernel notebooks.
