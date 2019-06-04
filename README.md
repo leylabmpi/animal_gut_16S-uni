@@ -6,7 +6,8 @@ animal feces gut project
 This repository comprises Jupyter notebooks used for the analysis in the
 research article:
 
-> Nicholas D. Youngblut, Georg H. Reischer, William Walters, Nathalie Schuster, Chris Walzer, Gabrielle Stalder, Ruth E. Ley, Andreas H. Farnleitner. Host diet and evolutionary history explain different aspects of gut microbiome diversity among vertebrate clades. bioRxiv. [doi: https://doi.org/10.1101/484006](doi: https://doi.org/10.1101/484006).
+> Youngblut, Nicholas D., Georg H. Reischer, William Walters, Nathalie Schuster, Chris Walzer, Gabrielle Stalder, Ruth E. Ley, and Andreas H. Farnleitner. 2019. “Host Diet and Evolutionary History Explain Different Aspects of Gut Microbiome Diversity among Vertebrate Clades.” Nature Communications 10 (1): 2200. https://doi.org/10.1038/s41467-019-10191
+
 
 
 These notebooks provide a detailed account of the methods (eg., code)
