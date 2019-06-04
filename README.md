@@ -1,7 +1,7 @@
-animal feces gut project
+Animal feces gut project
 ========================
 
-# Summary 
+## Summary 
 
 This repository comprises Jupyter notebooks used for the analysis in the
 research article:
@@ -17,7 +17,7 @@ The directories and notebook files are numbered in the general order in which th
 were run (although sometimes the analysis was not fully linear!).
 
 
-# Data 
+## Data 
 
 * 16S rRNA Illumina sequence data
   * The raw sequence data are available from the European Nucleotide Archive under the study accession number PRJEB29403
